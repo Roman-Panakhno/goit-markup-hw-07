@@ -1,9 +1,10 @@
+.page-header__border {
+  border-bottom: 1px solid #ececec;
+}
 .page-header {
   display: flex;
 
   margin: 0 auto;
-
-  border-bottom: 1px solid #ececec;
 
   color: $main-text-cl;
   font-weight: 500;
