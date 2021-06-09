@@ -1,5 +1,7 @@
 .portfolio-card {
-  margin-top: 0;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 94px;
 }
 
 .portfolio-list {
@@ -80,6 +82,7 @@
   padding: 20px 24px;
 }
 .card-content__title {
+  margin: 0;
   margin-bottom: 4px;
 
   font-weight: bold;
@@ -89,6 +92,7 @@
   color: $main-text-cl;
 }
 .card-content__description {
+  margin: 0;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
